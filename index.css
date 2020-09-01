@@ -454,9 +454,9 @@ nav {
     transition: all ease 0.1s;
 }
 
-@media(max-width:1190px) {
+@media(max-width:952px) {
     #main {
-        background-size: 1150px !important;
+        background-size: 952px !important;
     }
     .name {
         left: 10%;
@@ -469,21 +469,12 @@ nav {
     #services {
         height: auto;
     }
-    .b-container {
-        flex-wrap: wrap;
-    }
-    .s-box {
-        flex-grow: 1;
-    }
-    .s-b-img img {
-        object-fit: cover;
-    }
     #contact-form form {
         width: 95% !important;
     }
 }
 
-@media(max-width:970px) {
+@media(max-width:858px) {
     #main {
         background-image: none !important;
     }
@@ -505,9 +496,7 @@ nav {
     .about-text h1 {
         font-size: 4rem;
     }
-    .p-container {
-        width: 100%;
-    }
+   
 }
 
 @media(max-width:900px) {
