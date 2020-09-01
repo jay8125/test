@@ -455,9 +455,6 @@ nav {
 }
 
 @media(max-width:952px) {
-    #main {
-        background-size: 952px !important;
-    }
     .name {
         left: 10%;
         top: 50%;
